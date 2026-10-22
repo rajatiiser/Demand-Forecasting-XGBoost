@@ -1,0 +1,29 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Do not ignore CSV datasets or model files
+# The project requires these files on GitHub
