@@ -403,6 +403,4 @@ It provides a foundation for further work in retail analytics, time-series forec
 Mathematics | Data Science | Artificial Intelligence
 
 - GitHub: <https://github.com/rajatiiser>
-- LinkedIn: <www.linkedin.com/in/rajat-kumar-06909454>
-
-Replace the profile placeholders with your actual links before publishing.
+- LinkedIn: www.linkedin.com/in/rajat-kumar-06909454
