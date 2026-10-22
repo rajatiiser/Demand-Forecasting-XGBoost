@@ -402,7 +402,7 @@ It provides a foundation for further work in retail analytics, time-series forec
 
 Mathematics | Data Science | Artificial Intelligence
 
-- GitHub: <YOUR_GITHUB_PROFILE_URL>
-- LinkedIn: <YOUR_LINKEDIN_PROFILE_URL>
+- GitHub: <https://github.com/rajatiiser>
+- LinkedIn: <www.linkedin.com/in/rajat-kumar-06909454>
 
 Replace the profile placeholders with your actual links before publishing.
